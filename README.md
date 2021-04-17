@@ -4,22 +4,29 @@
 DMI allowed us understand, use, and visualise data in a way that prioritises creating an effect on others.
 This is in-line with the [USP](https://www.usp.nus.edu.sg/about/overview/)'s purpose to shape independent, adaptable thinkers and doers who will make an impact in the world.
 
-This page serves as a consolidation of the notable work that I have produced, as well as a reflection of my takeaways from this module. In all, this would also be an indicator of my progress in the semester.
+This page serves as a consolidation of the notable work that I have produced, as well as a reflection of my takeaways from this module. 
 
 ## Contents
 
-* [Sentiment Analysis](#sentiment-analysis)
-* [30% Rule](#30%-rule)
-* [Comparing Machine Learning](#comparing-machine-learning)
-* [Property Cooling Measures](#property-cooling-measures)
-* [Singapore's Minimum Wage](#singapore's-minimum-wage)
-* [Avengers](#avengers)
-* [Reorganisation](#reorganisation)
+* [Iterations](#iterations)
+  * [Sentiment Analysis](#sentiment-analysis)
+  * [30% Rule](#30%-rule)
+  * [Comparing Machine Learning](#comparing-machine-learning)
+  * [Property Cooling Measures](#property-cooling-measures)
+  * [Singapore's Minimum Wage](#singapore's-minimum-wage)
+  * [Avengers](#avengers)
+  * [Reorganisation](#reorganisation)
 * [Reflection](#reflection)
 * [Summary of Impact](#summary-of-impact)
 * [Other Visualisations](#other-visualisations)
 
-## Sentiment Analysis
+## Iterations
+
+This module was designed to promote iterative learning, where multiple "mini-project" help with the learning and development.
+The following are some of the key iterations that I have produced, presented chronologically.
+In all, this would also be an indicator of my progress throughout the semester.
+
+### Sentiment Analysis
 
 Inspired by a comment about Natural Language Processing (NLP) by Dr. Charles, my friend Ling Hui and I attempted to try it out for ourselves.
 We initially hypothesised that people on Reddit would generally give comments with positive sentiment as after all, Reddit is a community platform where people would share their ideas and stories with one another.
@@ -32,7 +39,7 @@ Among all the graphs we then produced, this was a scatter plot of average sentim
 We co-documented details of the entire process in a Medium article.
 The article was subsequently published onto Towards Data Science and is titled "[Trying to use a 30GB database for sentiment analysis](https://towardsdatascience.com/trying-to-use-a-30gb-database-for-sentiment-analysis-137d5f5c5fc5)". More graphs created can also be found in the article as well.
 
-## 30% Rule
+### 30% Rule
 
 This visualisation was inspired by a Reddit post which used the 30% rule to predict minimum wages in the US.
 The 30% rule states that one should spend no more than 30% of their salary on rental.
@@ -45,7 +52,7 @@ I shared this visualisation onto Reddit. Below are the links to the posts on the
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/lbfl42/oc_inspired_to_create_minimum_wage_for_singapore/)
 * [r/singapore](https://www.reddit.com/r/singapore/comments/lbfqgd/oc_inspired_to_create_minimum_wage_for_singapore/)
 
-## Comparing Machine Learning
+### Comparing Machine Learning
 
 My classmate Nicole used Azure Machine Learning on Excel to conduct sentiment analysis on over 4000 Pfizer-related tweets in order to determine how most people felt about the vaccine.
 Based on my previous visualisation using AWS Comprehend this actually got me asking, “Which of the AI models is more accurate?”
@@ -60,7 +67,7 @@ Additionally, I also shared another visualisation to Reddit.
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/layqf2/oc_difference_between_azure_and_aws_ml_on_same/)
 * [r/SentimentAnalysis](https://www.reddit.com/r/SentimentAnalysis/comments/lbqwk1/oc_difference_between_azure_and_aws_ml_on_same/)
 
-## Property Cooling Measures
+### Property Cooling Measures
 
 This next visualisation came about because I was discussing BTO-ing with my girlfriend and I was wondering about BTO prices in singapore.
 As we discussed, the idea of buying a resale flat came up as a viable option.
@@ -76,7 +83,7 @@ This was also shared onto Reddit on several subreddits.
 * [r/singapore](https://www.reddit.com/r/singapore/comments/m0zujk/oc_how_effective_are_singapores_property_cooling/)
 * [r/SingaporeRaw](https://www.reddit.com/r/SingaporeRaw/comments/lxk67v/how_effective_are_sgs_property_cooling_measures/)
 
-## Singapore's Minimum Wage
+### Singapore's Minimum Wage
 
 I collaborated with another classmate Erika who shared an interest in minimum wage in Singapore.
 We collected data from 100 countries and used a simple linear regression model to predict what Singapore’s minimum wage would be based on all the variables collected.
@@ -89,7 +96,7 @@ The entire process was written over 2 Medium articles which were both cowritten 
 * [r/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/comments/m2mvk6/oc_how_are_civil_rights_related_to_minimum_wage/)
 * [r/SingaporeRaw](https://www.reddit.com/r/SingaporeRaw/comments/m2mtri/if_singapore_had_a_minimum_wage_what_would_it_be/)
 
-## Avengers
+### Avengers
 
 I had wanted to go back to the core idea of developing a meaningful indicato" and with a topic that was organically inspired, so I started listening to the people around me.
 The biggest thing that came up was my friend complaining that WandaVision fans were hypocrites.
@@ -108,7 +115,7 @@ Among all my visualisations, this was the most well received on Reddit.
 * [r/ironman](https://www.reddit.com/r/ironman/comments/mhvrok/who_is_the_most_popular_avenger/)
 * [r/Avengers](https://www.reddit.com/r/Avengers/comments/mih5jw/who_is_the_most_popular_avenger/)
 
-## Reorganisation
+### Reorganisation
 
 A informal hackathon was held by Dr. Burke as a way for the class to showcase our skills during the last week of the semester.
 It was held during lecture time slot and topics were assigned to pairs at random.
