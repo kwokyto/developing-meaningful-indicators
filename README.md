@@ -1,10 +1,10 @@
-# Developing Meaningful Indicators
+# DMI Consolidation
 
 [Developing Meaningful Indicators](https://www.usp.nus.edu.sg/curriculum/usp-modules/developing-meaningful-indicators/) (DMI) was a module in USP taught be Dr. Charles Burke.
 DMI allowed us understand, use, and visualise data in a way that prioritises creating an effect on others.
 This is in-line with the [USP](https://www.usp.nus.edu.sg/about/overview/)'s purpose to shape independent, adaptable thinkers and doers who will make an impact in the world.
 
-This page serves as a round up of the notable work that I have produced, as well as a reflection of my takeaways from this module. In all, this would also be an indicator of my progress in the semester.
+This page serves as a consolidation of the notable work that I have produced, as well as a reflection of my takeaways from this module. In all, this would also be an indicator of my progress in the semester.
 
 ## Contents
 

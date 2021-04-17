@@ -1,4 +1,4 @@
-# Developing Meaningful Indicators
+# Collection of All Work
 
 [Developing Meaningful Indicators](https://www.usp.nus.edu.sg/curriculum/usp-modules/developing-meaningful-indicators/) (DMI) was a module in USP taught be Dr. Charles Burke.
 DMI allowed us understand, use, and visualise data in a way that prioritises creating an effect on others.
