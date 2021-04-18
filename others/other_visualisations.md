@@ -160,7 +160,7 @@ This set of visualisations explored the use of sunburst and radial charts using 
 
 ## Duolingo
 
-This set of charts were reference Duolingo statistics, with the emphasis on the use of chord diagrams.
+This set of charts referenced Duolingo statistics, with the emphasis on the use of chord diagrams.
 
 ![duolingo_1](./duolingo/1.png)
 ![duolingo_2](./duolingo/2.png)
@@ -171,7 +171,7 @@ This set of charts were reference Duolingo statistics, with the emphasis on the 
 
 ## Netflix Originals
 
-This was done in collaboration with Valerie, and over our shared love in Netflix.
+This was done in collaboration with Valerie over our shared love in Netflix.
 
 ![netflix_1](./netflix/1.png)
 
