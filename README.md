@@ -188,7 +188,7 @@ These are statistics collated as a personal measure of my impact on the world. T
 |r/SingaporeRaw|[OC] How effective are Singapore's property cooling measures?|8|[Link](https://www.reddit.com/r/SingaporeRaw/comments/lxk67v/how_effective_are_sgs_property_cooling_measures/)|
 |Medium|Stepwise Regression Tutorial in Python|1348|[Link](https://towardsdatascience.com/stepwise-regression-tutorial-in-python-ebf7c782c922)|
 |r/dataisbeautiful|[OC] How are Civil Rights related to Minimum Wage?|716|[Link](https://www.reddit.com/r/dataisbeautiful/comments/m2mvk6/oc_how_are_civil_rights_related_to_minimum_wage/)|
-|r/SingaporeRaw|If Singapore Had a Minimum Wage, What Would it Be?|716|[Link](https://www.reddit.com/r/SingaporeRaw/comments/m2mtri/if_singapore_had_a_minimum_wage_what_would_it_be/)|
+|r/SingaporeRaw|If Singapore Had a Minimum Wage, What Would it Be?|11|[Link](https://www.reddit.com/r/SingaporeRaw/comments/m2mtri/if_singapore_had_a_minimum_wage_what_would_it_be/)|
 |r/marvelstudios|Who is the Most Popular Avenger?|970|[Link](https://www.reddit.com/r/marvelstudios/comments/mhvlg3/who_is_the_most_popular_avenger/)|
 |r/Marvel_Movies|Who is the Most Popular Avenger?|88|[Link](https://www.reddit.com/r/Marvel_Movies/comments/mhvn3o/who_is_the_most_popular_avenger/)|
 |r/CaptainAmerica|Who is the Most Popular Avenger?|47|[Link](https://www.reddit.com/r/CaptainAmerica/comments/mhvrea/who_is_the_most_popular_avenger/)|
