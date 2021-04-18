@@ -138,7 +138,7 @@ These were then shared on a private subreddit.
 
 * [r/meaningfulindicators Midlife Crisis](https://www.reddit.com/r/meaningfulindicators/comments/mrbq5l/how_does_midlife_crisis_reorganise_your_social/)
 * [r/meaningfulindicators Disney](https://www.reddit.com/r/meaningfulindicators/comments/mrbr0e/the_reorganisation_of_disney/)
-[r/meaningfulindicators Political Realignment](https://www.reddit.com/r/meaningfulindicators/comments/mrbrq8/nixon_is_the_most_influential_president/)
+* [r/meaningfulindicators Political Realignment](https://www.reddit.com/r/meaningfulindicators/comments/mrbrq8/nixon_is_the_most_influential_president/)
 
 ## Reflection
 
