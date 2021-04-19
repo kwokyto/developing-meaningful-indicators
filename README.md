@@ -175,7 +175,7 @@ Only when we truly see things from the perspective of our audience, then can we 
 
 These are statistics collated as a personal measure of my impact on the world. The statistics are accurate as of 17 April 2021.
 
-|Platform/Subreddit|Title|Reads/Upvotes|Link|
+|**Platform/Subreddit**|**Title**|**Reads/Upvotes**|**Link**|
 |--------|-----|-------------|----|
 |Medium|Trying to use a 30GB database for sentiment analysis|365|[Link](https://towardsdatascience.com/trying-to-use-a-30gb-database-for-sentiment-analysis-137d5f5c5fc5)|
 |r/dataisbeautiful|[OC] Inspired to create "minimum wage" for Singapore based on 30% rule|43|[Link](https://www.reddit.com/r/dataisbeautiful/comments/lbfl42/oc_inspired_to_create_minimum_wage_for_singapore/)|
