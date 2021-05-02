@@ -10,10 +10,10 @@ This page serves as a consolidation of the notable work that I have produced, as
 
 * [Iterations](#iterations)
   * [Sentiment Analysis](#sentiment-analysis)
-  * [30% Rule](#30%-rule)
+  * [30% Rule](#30-rule)
   * [Comparing Machine Learning](#comparing-machine-learning)
   * [Property Cooling Measures](#property-cooling-measures)
-  * [Singapore's Minimum Wage](#singapore's-minimum-wage)
+  * [Singapore's Minimum Wage](#singapores-minimum-wage)
   * [Avengers](#avengers)
   * [Reorganisation](#reorganisation)
 * [Reflection](#reflection)
